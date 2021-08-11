@@ -1,4 +1,4 @@
-# huffmanCodes-compression
+# HuffmanCodes-compression
 This project is to compress and expand most of the file formats. I have not used any existing APIs for doing the same but have implemented the huffman coding algorithm to make it work.
 
 # Steps to run the project:-
